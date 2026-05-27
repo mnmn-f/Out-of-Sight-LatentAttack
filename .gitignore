@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+outputs/
+trace_outputs/
+_external_refs/
+_tmp_papers/
+_backup_*/
+
+.env
+.venv/
+venv/
